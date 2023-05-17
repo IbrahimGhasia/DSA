@@ -1,3 +1,5 @@
+import DoublyLinkedList.Node;
+
 class Node {
     int data;
     Node next;
